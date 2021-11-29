@@ -89,7 +89,5 @@ Sistema open-source para controle de versão. Com ele podemos criar todo histór
 - pode também fazer o `ls -a` e se tiver uma pasta **".git"** significará que não é uma pasta comum, e sim um repositório local
 - `git remote -v` retorna o repositório remoto linkado à pasta
 - Criptografia por traz do GIT:
-
 40 caracteres gerados automaticamente sendo possível ver através do comando(já dentro do arquivo):
-
-`openss1 sha1`
+`openssl sha1`
