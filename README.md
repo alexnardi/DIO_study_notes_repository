@@ -1,1 +1,4 @@
-# DIO_study_notes_repository
+# **Repositório de anotações dos estudos na** [DIO](https://digitalinnovation.one/)
+
+
+- ## GIT/GitHub
